@@ -30,6 +30,7 @@ DROP - jadvalni butunlay o`chiradi, yani ma`lumotlar ham, jadvaalning o`zi ham y
 
 --7
 --alter table employees ADD Departament varchar(10);
+ 
 
 --8
 --ALTER TABLE employees alter column salary FLOAT;
